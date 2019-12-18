@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "obsidian-pressure-plate-justfatlard",
+  "version": "0.0.1",
+  "name": "Obsidian Pressure Plate",
+  "description": "Adds a new pressure plate! Obsidian pressure plates are only triggered by a player.",
+  "authors": [
+    "fatlard1993"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/fatlard1993/obsidian-pressure-plate"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/obsidian-pressure-plate-justfatlard/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "justfatlard.obsidian_pressure_plate.ObsidianPressurePlate"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.7.2",
+    "fabric": "*",
+    "minecraft": "1.15.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}
