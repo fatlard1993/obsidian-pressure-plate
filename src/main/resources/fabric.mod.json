@@ -11,7 +11,7 @@
     "homepage": "",
     "sources": "https://github.com/fatlard1993/obsidian-pressure-plate"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/obsidian-pressure-plate-justfatlard/icon.png",
   "environment": "*",
   "entrypoints": {
