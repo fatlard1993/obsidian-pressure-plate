@@ -1,5 +1,5 @@
 {
-  "block.obsidian-pressure-plate-justfatlard.obsidian_pressure_plate": "Obsidian Pressure Plate",
-  "obsidian-pressure-plate-justfatlard.advancements.story.create_pressure_plate.title": "Wont let the dogs out",
-  "obsidian-pressure-plate-justfatlard.advancements.story.create_pressure_plate.description": "Craft a pressure plate that can only be activated by players"
+  "block.obsidian-pressure-plate-justfatlard.obsidian_pressure_plate": "Player Weighted Pressure Plate",
+  "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.title": "Wont let the dogs out",
+  "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.description": "Craft a pressure plate that can only be activated by players"
 }
