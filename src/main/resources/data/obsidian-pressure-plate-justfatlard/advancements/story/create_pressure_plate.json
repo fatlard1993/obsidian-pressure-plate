@@ -1,24 +1,24 @@
 {
-  "parent": "minecraft:story/form_obsidian",
-  "display": {
-    "icon": {
-      "item": "obsidian-pressure-plate-justfatlard:obsidian_pressure_plate"
-    },
-    "title": {
-      "translate": "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.title"
-    },
-    "description": {
-      "translate": "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.description"
-    }
-  },
-  "criteria": {
-    "obsidian_pressure_plate": {
-      "trigger": "minecraft:inventory_changed",
-      "conditions": {
-        "items": [
-          { "item": "obsidian-pressure-plate-justfatlard:obsidian_pressure_plate" }
-        ]
-      }
-    }
-  }
+	"parent": "minecraft:story/form_obsidian",
+	"display": {
+		"icon": {
+			"item": "obsidian-pressure-plate-justfatlard:obsidian_pressure_plate"
+		},
+		"title": {
+			"translate": "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.title"
+		},
+		"description": {
+			"translate": "advancements.story.obsidian-pressure-plate-justfatlard.create_pressure_plate.description"
+		}
+	},
+	"criteria": {
+		"obsidian_pressure_plate": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{ "item": "obsidian-pressure-plate-justfatlard:obsidian_pressure_plate" }
+				]
+			}
+		}
+	}
 }

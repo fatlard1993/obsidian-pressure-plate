@@ -1,6 +1,6 @@
 {
-  "variants": {
-    "powered=false": { "model": "obsidian-pressure-plate-justfatlard:block/obsidian_pressure_plate" },
-    "powered=true": { "model": "obsidian-pressure-plate-justfatlard:block/obsidian_pressure_plate_down" }
-  }
+	"variants": {
+		"powered=false": { "model": "obsidian-pressure-plate-justfatlard:block/obsidian_pressure_plate" },
+		"powered=true": { "model": "obsidian-pressure-plate-justfatlard:block/obsidian_pressure_plate_down" }
+	}
 }
